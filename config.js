@@ -5,7 +5,7 @@
 
 module.exports = {
     // Gemini AI API Key
-    geminiApiKey: 'AIzaSyAoapBGo5DThK8IwNgc11cLKY9jcEE_psU',
+    geminiApiKey: 'elitechwiz tafta yako ',
     
     // Bot owner WhatsApp ID
     ownerNumber: '255793710144@s.whatsapp.net',
